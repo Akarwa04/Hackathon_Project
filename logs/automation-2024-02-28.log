@@ -1,0 +1,63 @@
+09:57:40.504 [main] INFO  TestBase.BaseClass - *****Patient story and experience are selected*****
+09:57:46.840 [main] INFO  TestBase.BaseClass - *****Price and availability are selected*****
+09:57:54.338 [main] INFO  TestBase.BaseClass - *****SortBy is Selected*****
+09:57:55.463 [main] INFO  TestBase.BaseClass - *****Doctors Name are Visible*****
+09:58:01.999 [main] INFO  TestBase.BaseClass - *****Click on surgeries*****
+09:58:02.441 [main] INFO  TestBase.BaseClass - *****Page Is Scrolled Down*****
+09:58:04.835 [main] INFO  TestBase.BaseClass - Surgeries are visible*****
+10:08:33.923 [main] INFO  TestBase.BaseClass - Find Doctors is clicked
+10:08:43.888 [main] INFO  TestBase.BaseClass - *****City is entered*****
+10:08:51.958 [main] INFO  TestBase.BaseClass - *****Patient story and experience are selected*****
+10:08:58.638 [main] INFO  TestBase.BaseClass - *****Price and availability are selected*****
+10:09:06.105 [main] INFO  TestBase.BaseClass - *****SortBy is Selected*****
+10:09:07.450 [main] INFO  TestBase.BaseClass - *****Doctors Name are Visible*****
+10:09:14.879 [main] INFO  TestBase.BaseClass - *****Click on surgeries*****
+10:09:15.290 [main] INFO  TestBase.BaseClass - *****Page Is Scrolled Down*****
+10:09:17.688 [main] INFO  TestBase.BaseClass - Surgeries are visible*****
+10:15:28.194 [main] INFO  TestBase.BaseClass - Find Doctors is clicked
+10:15:38.840 [main] INFO  TestBase.BaseClass - *****City is entered*****
+10:15:47.239 [main] INFO  TestBase.BaseClass - *****Patient story and experience are selected*****
+10:15:54.811 [main] INFO  TestBase.BaseClass - *****Price and availability are selected*****
+10:16:02.115 [main] INFO  TestBase.BaseClass - *****SortBy is Selected*****
+10:16:03.327 [main] INFO  TestBase.BaseClass - *****Doctors Name are Visible*****
+10:16:10.597 [main] INFO  TestBase.BaseClass - *****Click on surgeries*****
+10:16:11.015 [main] INFO  TestBase.BaseClass - *****Page Is Scrolled Down*****
+10:16:13.127 [main] INFO  TestBase.BaseClass - Surgeries are visible*****
+10:54:24.099 [main] INFO  TestCases.TC_01 - ---Window maximized---
+10:54:24.284 [main] INFO  TestCases.TC_01 - *****TC_01 is starting*****
+10:54:24.309 [main] INFO  TestCases.TC_01 - *****Title is done*****
+10:54:27.690 [main] INFO  TestCases.TC_01 - Find Doctors is clicked
+10:54:31.330 [main] INFO  TestCases.TC_01 - *****City is entered*****
+10:54:39.556 [main] INFO  TestCases.TC_01 - *****Expertise is choosed*****
+10:54:48.893 [main] INFO  TestCases.TC_01 - *****Patient story and experience are selected*****
+10:54:57.085 [main] INFO  TestCases.TC_01 - *****Price and availability are selected*****
+10:55:03.472 [main] INFO  TestCases.TC_01 - *****SortBy is Selected*****
+10:55:04.683 [main] INFO  TestCases.TC_01 - *****Doctors Name are Visible*****
+10:55:07.363 [main] INFO  TestCases.TC_01 - *****TC_02 is starting*****
+10:55:15.676 [main] INFO  TestCases.TC_01 - *****Click on surgeries*****
+10:55:15.741 [main] INFO  TestCases.TC_01 - *****Page Is Scrolled Down*****
+10:55:18.927 [main] INFO  TestCases.TC_01 - Surgeries are visible*****
+10:55:19.530 [main] INFO  TestCases.TC_01 - *****TC_03 is starting*****
+10:55:30.663 [main] INFO  TestCases.TC_01 - ************TEST CASE 8 SUCESSESFULLY EXECUTED***********
+10:55:52.565 [main] INFO  TestCases.TC_01 - ************TEST CASE 9 SUCESSESFULLY EXECUTED***********
+14:26:31.846 [main] INFO  TestCases.TC_01 - ---Window maximized---
+14:26:31.947 [main] INFO  TestCases.TC_01 - *****TC_01 is starting*****
+14:26:31.969 [main] INFO  TestCases.TC_01 - *****Title is done*****
+14:26:34.830 [main] INFO  TestCases.TC_01 - Find Doctors is clicked
+14:26:37.827 [main] INFO  TestCases.TC_01 - *****City is entered*****
+14:26:45.080 [main] INFO  TestCases.TC_01 - *****Expertise is choosed*****
+14:26:52.396 [main] INFO  TestCases.TC_01 - *****Patient story and experience are selected*****
+14:26:59.630 [main] INFO  TestCases.TC_01 - *****Price and availability are selected*****
+14:27:04.878 [main] INFO  TestCases.TC_01 - *****SortBy is Selected*****
+14:27:05.783 [main] INFO  TestCases.TC_01 - *****Doctors Name are Visible*****
+14:27:07.379 [main] INFO  TestCases.TC_01 - *****TC_02 is starting*****
+14:27:11.585 [main] INFO  TestCases.TC_01 - *****Click on surgeries*****
+14:27:11.633 [main] INFO  TestCases.TC_01 - *****Page Is Scrolled Down*****
+14:27:13.251 [main] INFO  TestCases.TC_01 - Surgeries are visible*****
+14:27:13.638 [main] INFO  TestCases.TC_01 - *****TC_03 is starting*****
+14:27:20.772 [main] INFO  TestCases.TC_01 - ************TEST CASE 8 SUCESSESFULLY EXECUTED***********
+14:27:40.844 [main] INFO  TestCases.TC_01 - ************TEST CASE 9 SUCESSESFULLY EXECUTED***********
+14:39:08.040 [main] INFO  TestCases.TC_01 - ---Window maximized---
+14:39:08.122 [main] INFO  TestCases.TC_01 - *****TC_01 is starting*****
+14:39:08.135 [main] INFO  TestCases.TC_01 - *****Title is done*****
+14:39:10.336 [main] INFO  TestCases.TC_01 - Find Doctors is clicked

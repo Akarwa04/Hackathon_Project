@@ -1,0 +1,63 @@
+21:55:14.701 [main] INFO  TestCases.TC_01 - ************TEST CASE 8 SUCESSESFULLY EXECUTED***********
+21:56:05.443 [main] INFO  TestCases.TC_01 - ************TEST CASE 9 SUCESSESFULLY EXECUTED***********
+21:56:06.559 [main] INFO  TestCases.TC_01 - *******Closing all windows******
+21:57:50.833 [main] INFO  TestCases.TC_01 - ******Practo Page Is Opened******
+21:57:53.974 [main] INFO  TestCases.TC_01 - ---Window maximized---
+21:57:54.066 [main] INFO  TestCases.TC_01 - *****Title is done*****
+21:57:56.109 [main] INFO  TestCases.TC_01 - Find Doctors is clicked
+21:57:58.877 [main] INFO  TestCases.TC_01 - *****City is entered*****
+21:58:04.516 [main] INFO  TestCases.TC_01 - *****Expertise is choosed*****
+21:58:11.355 [main] INFO  TestCases.TC_01 - *****Patient story and experience are selected*****
+21:58:16.981 [main] INFO  TestCases.TC_01 - *****Price and availability are selected*****
+21:58:21.786 [main] INFO  TestCases.TC_01 - *****SortBy is Selected*****
+21:58:22.064 [main] INFO  TestCases.TC_01 - *****Doctors Name are Visible*****
+21:58:28.245 [main] INFO  TestCases.TC_01 - *****Click on surgeries*****
+21:58:28.279 [main] INFO  TestCases.TC_01 - *****Page Is Scrolled Down*****
+21:58:29.316 [main] INFO  TestCases.TC_01 - Surgeries are visible*****
+21:58:36.620 [main] INFO  TestCases.TC_01 - ************TEST CASE 8 SUCESSESFULLY EXECUTED***********
+21:59:27.389 [main] INFO  TestCases.TC_01 - ************TEST CASE 9 SUCESSESFULLY EXECUTED***********
+21:59:28.508 [main] INFO  TestCases.TC_01 - *******Closing all windows******
+21:59:38.260 [main] INFO  TestCases.TC_01 - ******Practo Page Is Opened******
+21:59:41.452 [main] INFO  TestCases.TC_01 - ---Window maximized---
+21:59:41.468 [main] INFO  TestCases.TC_01 - *****Title is done*****
+21:59:43.826 [main] INFO  TestCases.TC_01 - Find Doctors is clicked
+21:59:46.531 [main] INFO  TestCases.TC_01 - *****City is entered*****
+21:59:52.048 [main] INFO  TestCases.TC_01 - *****Expertise is choosed*****
+21:59:59.045 [main] INFO  TestCases.TC_01 - *****Patient story and experience are selected*****
+22:00:06.021 [main] INFO  TestCases.TC_01 - *****Price and availability are selected*****
+22:00:10.743 [main] INFO  TestCases.TC_01 - *****SortBy is Selected*****
+22:00:10.972 [main] INFO  TestCases.TC_01 - *****Doctors Name are Visible*****
+22:00:15.897 [main] INFO  TestCases.TC_01 - *****Click on surgeries*****
+22:00:15.924 [main] INFO  TestCases.TC_01 - *****Page Is Scrolled Down*****
+22:00:16.863 [main] INFO  TestCases.TC_01 - Surgeries are visible*****
+22:00:23.522 [main] INFO  TestCases.TC_01 - ************TEST CASE 8 SUCESSESFULLY EXECUTED***********
+22:01:14.227 [main] INFO  TestCases.TC_01 - ************TEST CASE 9 SUCESSESFULLY EXECUTED***********
+22:01:15.377 [main] INFO  TestCases.TC_01 - *******Closing all windows******
+22:08:10.561 [main] INFO  TestCases.TC_01 - ******Practo Page Is Opened******
+22:08:13.715 [main] INFO  TestCases.TC_01 - ---Window maximized---
+22:08:13.796 [main] INFO  TestCases.TC_01 - *****Title is done*****
+22:08:21.135 [main] INFO  TestCases.TC_01 - Find Doctors is clicked
+22:08:23.888 [main] INFO  TestCases.TC_01 - *****City is entered*****
+22:08:43.702 [main] INFO  TestCases.TC_01 - *****Expertise is choosed*****
+22:08:50.478 [main] INFO  TestCases.TC_01 - *****Patient story and experience are selected*****
+22:08:56.556 [main] INFO  TestCases.TC_01 - *****Price and availability are selected*****
+22:09:01.363 [main] INFO  TestCases.TC_01 - *****SortBy is Selected*****
+22:09:01.613 [main] INFO  TestCases.TC_01 - *****Doctors Name are Visible*****
+22:09:09.107 [main] INFO  TestCases.TC_01 - *****Click on surgeries*****
+22:09:09.134 [main] INFO  TestCases.TC_01 - *****Page Is Scrolled Down*****
+22:09:10.326 [main] INFO  TestCases.TC_01 - Surgeries are visible*****
+22:09:35.997 [main] INFO  TestCases.TC_01 - ************TEST CASE 8 SUCESSESFULLY EXECUTED***********
+22:10:26.763 [main] INFO  TestCases.TC_01 - ************TEST CASE 9 SUCESSESFULLY EXECUTED***********
+22:10:27.888 [main] INFO  TestCases.TC_01 - *******Closing all windows******
+22:10:47.905 [main] INFO  TestCases.TC_01 - ******Practo Page Is Opened******
+22:10:51.068 [main] INFO  TestCases.TC_01 - ---Window maximized---
+22:10:51.086 [main] INFO  TestCases.TC_01 - *****Title is done*****
+22:11:02.280 [main] INFO  TestCases.TC_01 - Find Doctors is clicked
+22:11:05.000 [main] INFO  TestCases.TC_01 - *****City is entered*****
+22:11:16.922 [main] INFO  TestCases.TC_01 - *****Expertise is choosed*****
+22:11:23.871 [main] INFO  TestCases.TC_01 - *****Patient story and experience are selected*****
+22:11:29.877 [main] INFO  TestCases.TC_01 - *****Price and availability are selected*****
+22:11:34.866 [main] INFO  TestCases.TC_01 - *****SortBy is Selected*****
+22:11:35.328 [main] INFO  TestCases.TC_01 - *****Doctors Name are Visible*****
+22:11:42.503 [main] INFO  TestCases.TC_01 - *****Click on surgeries*****
+22:11:42.551 [main] INFO  TestCases.TC_01 - *****Page Is Scrolled Down*****

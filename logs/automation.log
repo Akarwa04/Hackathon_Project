@@ -1,0 +1,22 @@
+14:39:13.163 [main] INFO  TestCases.TC_01 - *****City is entered*****
+14:39:19.894 [main] INFO  TestCases.TC_01 - *****Expertise is choosed*****
+14:39:26.815 [main] INFO  TestCases.TC_01 - *****Patient story and experience are selected*****
+14:39:33.452 [main] INFO  TestCases.TC_01 - *****Price and availability are selected*****
+14:39:38.353 [main] INFO  TestCases.TC_01 - *****SortBy is Selected*****
+14:39:39.035 [main] INFO  TestCases.TC_01 - *****Doctors Name are Visible*****
+14:39:40.460 [main] INFO  TestCases.TC_01 - *****TC_02 is starting*****
+14:39:44.648 [main] INFO  TestCases.TC_01 - *****Click on surgeries*****
+14:39:44.678 [main] INFO  TestCases.TC_01 - *****Page Is Scrolled Down*****
+14:39:46.003 [main] INFO  TestCases.TC_01 - Surgeries are visible*****
+14:39:46.409 [main] INFO  TestCases.TC_01 - *****TC_03 is starting*****
+14:39:53.302 [main] INFO  TestCases.TC_01 - ************TEST CASE 8 SUCESSESFULLY EXECUTED***********
+14:40:06.177 [main] INFO  TestCases.TC_01 - ************TEST CASE 9 SUCESSESFULLY EXECUTED***********
+14:42:01.683 [main] INFO  TestBase.BaseClass - Find Doctors is clicked
+14:42:10.695 [main] INFO  TestBase.BaseClass - *****City is entered*****
+14:42:17.338 [main] INFO  TestBase.BaseClass - *****Patient story and experience are selected*****
+14:42:23.671 [main] INFO  TestBase.BaseClass - *****Price and availability are selected*****
+14:42:30.290 [main] INFO  TestBase.BaseClass - *****SortBy is Selected*****
+14:42:31.262 [main] INFO  TestBase.BaseClass - *****Doctors Name are Visible*****
+14:42:37.091 [main] INFO  TestBase.BaseClass - *****Click on surgeries*****
+14:42:37.366 [main] INFO  TestBase.BaseClass - *****Page Is Scrolled Down*****
+14:42:38.488 [main] INFO  TestBase.BaseClass - Surgeries are visible*****

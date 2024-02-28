@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T10:53:01 IST" name="Suite" finished-at="2024-02-28T10:55:54 IST" duration-ms="172511">
+    <groups>
+      <group name="regression">
+        <method signature="TC_03.clickAgain()[pri:2, instance:TestCases.TC_03@4efbca5a]" name="clickAgain" class="TestCases.TC_03"/>
+        <method signature="TC_03.clickOnceAgain()[pri:3, instance:TestCases.TC_03@4efbca5a]" name="clickOnceAgain" class="TestCases.TC_03"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="TC_01.Verify()[pri:0, instance:TestCases.TC_01@5c33f1a9]" name="Verify" class="TestCases.TC_01"/>
+        <method signature="TC_02.Check2()[pri:0, instance:TestCases.TC_02@6069db50]" name="Check2" class="TestCases.TC_02"/>
+        <method signature="TC_03.Check3()[pri:0, instance:TestCases.TC_03@4efbca5a]" name="Check3" class="TestCases.TC_03"/>
+        <method signature="TC_01.SearchBoxIsDisplayed()[pri:1, instance:TestCases.TC_01@5c33f1a9]" name="SearchBoxIsDisplayed" class="TestCases.TC_01"/>
+        <method signature="TC_03.clickHealth()[pri:1, instance:TestCases.TC_03@4efbca5a]" name="clickHealth" class="TestCases.TC_03"/>
+        <method signature="TC_01.Dr()[pri:2, instance:TestCases.TC_01@5c33f1a9]" name="Dr" class="TestCases.TC_01"/>
+        <method signature="TC_02.Surg()[pri:2, instance:TestCases.TC_02@6069db50]" name="Surg" class="TestCases.TC_02"/>
+        <method signature="TC_01.Expertise()[pri:3, instance:TestCases.TC_01@5c33f1a9]" name="Expertise" class="TestCases.TC_01"/>
+        <method signature="TC_02.Print()[pri:3, instance:TestCases.TC_02@6069db50]" name="Print" class="TestCases.TC_02"/>
+        <method signature="TC_01.StoryExp()[pri:4, instance:TestCases.TC_01@5c33f1a9]" name="StoryExp" class="TestCases.TC_01"/>
+        <method signature="TC_01.Money()[pri:5, instance:TestCases.TC_01@5c33f1a9]" name="Money" class="TestCases.TC_01"/>
+        <method signature="TC_01.ThereOrNot()[pri:6, instance:TestCases.TC_01@5c33f1a9]" name="ThereOrNot" class="TestCases.TC_01"/>
+        <method signature="TC_01.Names()[pri:7, instance:TestCases.TC_01@5c33f1a9]" name="Names" class="TestCases.TC_01"/>
+        <method signature="TC_01.Print()[pri:8, instance:TestCases.TC_01@5c33f1a9]" name="Print" class="TestCases.TC_01"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="TC_01.Verify()[pri:0, instance:TestCases.TC_01@5c33f1a9]" name="Verify" class="TestCases.TC_01"/>
+        <method signature="TC_02.Check2()[pri:0, instance:TestCases.TC_02@6069db50]" name="Check2" class="TestCases.TC_02"/>
+        <method signature="TC_03.Check3()[pri:0, instance:TestCases.TC_03@4efbca5a]" name="Check3" class="TestCases.TC_03"/>
+        <method signature="TC_01.SearchBoxIsDisplayed()[pri:1, instance:TestCases.TC_01@5c33f1a9]" name="SearchBoxIsDisplayed" class="TestCases.TC_01"/>
+        <method signature="TC_03.clickHealth()[pri:1, instance:TestCases.TC_03@4efbca5a]" name="clickHealth" class="TestCases.TC_03"/>
+        <method signature="TC_01.Dr()[pri:2, instance:TestCases.TC_01@5c33f1a9]" name="Dr" class="TestCases.TC_01"/>
+        <method signature="TC_02.Surg()[pri:2, instance:TestCases.TC_02@6069db50]" name="Surg" class="TestCases.TC_02"/>
+        <method signature="TC_03.clickAgain()[pri:2, instance:TestCases.TC_03@4efbca5a]" name="clickAgain" class="TestCases.TC_03"/>
+        <method signature="TC_01.Expertise()[pri:3, instance:TestCases.TC_01@5c33f1a9]" name="Expertise" class="TestCases.TC_01"/>
+        <method signature="TC_02.Print()[pri:3, instance:TestCases.TC_02@6069db50]" name="Print" class="TestCases.TC_02"/>
+        <method signature="TC_03.clickOnceAgain()[pri:3, instance:TestCases.TC_03@4efbca5a]" name="clickOnceAgain" class="TestCases.TC_03"/>
+        <method signature="TC_01.StoryExp()[pri:4, instance:TestCases.TC_01@5c33f1a9]" name="StoryExp" class="TestCases.TC_01"/>
+        <method signature="TC_01.Money()[pri:5, instance:TestCases.TC_01@5c33f1a9]" name="Money" class="TestCases.TC_01"/>
+        <method signature="TC_01.ThereOrNot()[pri:6, instance:TestCases.TC_01@5c33f1a9]" name="ThereOrNot" class="TestCases.TC_01"/>
+        <method signature="TC_01.Names()[pri:7, instance:TestCases.TC_01@5c33f1a9]" name="Names" class="TestCases.TC_01"/>
+        <method signature="TC_01.Print()[pri:8, instance:TestCases.TC_01@5c33f1a9]" name="Print" class="TestCases.TC_01"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2024-02-28T10:53:01 IST" name="ChromeTest" finished-at="2024-02-28T10:55:54 IST" duration-ms="172511">
+      <class name="TestCases.TC_01">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:TestCases.TC_01@5c33f1a9]" started-at="2024-02-28T10:53:02 IST" name="setUp" finished-at="2024-02-28T10:54:24 IST" duration-ms="81214" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Verify()[pri:0, instance:TestCases.TC_01@5c33f1a9]" started-at="2024-02-28T10:54:24 IST" name="Verify" finished-at="2024-02-28T10:54:24 IST" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify -->
+        <test-method signature="SearchBoxIsDisplayed()[pri:1, instance:TestCases.TC_01@5c33f1a9]" started-at="2024-02-28T10:54:24 IST" name="SearchBoxIsDisplayed" finished-at="2024-02-28T10:54:24 IST" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchBoxIsDisplayed -->
+        <test-method signature="Dr()[pri:2, instance:TestCases.TC_01@5c33f1a9]" started-at="2024-02-28T10:54:25 IST" name="Dr" finished-at="2024-02-28T10:54:31 IST" duration-ms="6282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dr -->
+        <test-method signature="Expertise()[pri:3, instance:TestCases.TC_01@5c33f1a9]" started-at="2024-02-28T10:54:31 IST" name="Expertise" finished-at="2024-02-28T10:54:39 IST" duration-ms="7977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Expertise -->
+        <test-method signature="StoryExp()[pri:4, instance:TestCases.TC_01@5c33f1a9]" started-at="2024-02-28T10:54:39 IST" name="StoryExp" finished-at="2024-02-28T10:54:48 IST" duration-ms="9080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StoryExp -->
+        <test-method signature="Money()[pri:5, instance:TestCases.TC_01@5c33f1a9]" started-at="2024-02-28T10:54:49 IST" name="Money" finished-at="2024-02-28T10:54:52 IST" duration-ms="3760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Money -->
+        <test-method signature="ThereOrNot()[pri:6, instance:TestCases.TC_01@5c33f1a9]" started-at="2024-02-28T10:54:53 IST" name="ThereOrNot" finished-at="2024-02-28T10:55:03 IST" duration-ms="10198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThereOrNot -->
+        <test-method signature="Names()[pri:7, instance:TestCases.TC_01@5c33f1a9]" started-at="2024-02-28T10:55:03 IST" name="Names" finished-at="2024-02-28T10:55:04 IST" duration-ms="986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Names -->
+        <test-method signature="Print()[pri:8, instance:TestCases.TC_01@5c33f1a9]" started-at="2024-02-28T10:55:04 IST" name="Print" finished-at="2024-02-28T10:55:07 IST" duration-ms="2219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Print -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC_01@5c33f1a9]" started-at="2024-02-28T10:55:52 IST" name="tearDown" finished-at="2024-02-28T10:55:54 IST" duration-ms="1637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC_01 -->
+      <class name="TestCases.TC_02">
+        <test-method signature="Check2()[pri:0, instance:TestCases.TC_02@6069db50]" started-at="2024-02-28T10:55:07 IST" name="Check2" finished-at="2024-02-28T10:55:15 IST" duration-ms="8386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check2 -->
+        <test-method signature="Surg()[pri:2, instance:TestCases.TC_02@6069db50]" started-at="2024-02-28T10:55:16 IST" name="Surg" finished-at="2024-02-28T10:55:18 IST" duration-ms="2875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Surg -->
+        <test-method signature="Print()[pri:3, instance:TestCases.TC_02@6069db50]" started-at="2024-02-28T10:55:19 IST" name="Print" finished-at="2024-02-28T10:55:19 IST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Print -->
+      </class> <!-- TestCases.TC_02 -->
+      <class name="TestCases.TC_03">
+        <test-method signature="Check3()[pri:0, instance:TestCases.TC_03@4efbca5a]" started-at="2024-02-28T10:55:19 IST" name="Check3" finished-at="2024-02-28T10:55:20 IST" duration-ms="661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check3 -->
+        <test-method signature="clickHealth()[pri:1, instance:TestCases.TC_03@4efbca5a]" started-at="2024-02-28T10:55:20 IST" name="clickHealth" finished-at="2024-02-28T10:55:27 IST" duration-ms="7097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickHealth -->
+        <test-method signature="clickAgain()[pri:2, instance:TestCases.TC_03@4efbca5a]" started-at="2024-02-28T10:55:28 IST" name="clickAgain" finished-at="2024-02-28T10:55:30 IST" duration-ms="2609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickAgain -->
+        <test-method signature="clickOnceAgain()[pri:3, instance:TestCases.TC_03@4efbca5a]" started-at="2024-02-28T10:55:31 IST" name="clickOnceAgain" finished-at="2024-02-28T10:55:52 IST" duration-ms="21505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnceAgain -->
+      </class> <!-- TestCases.TC_03 -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
